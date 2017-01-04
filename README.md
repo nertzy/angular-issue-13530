@@ -2,7 +2,9 @@
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
 
-This project uses Angular 2.4.1, although this issue first appears in Angular 2.3.0. It does not appear in Angular 2.2.3.
+This issue first appears in Angular 2.3.0 and is still present as of Angular 2.4.1. 
+
+It does not appear in Angular 2.2.3.
 
 ## How to reproduce
 
