@@ -20,4 +20,4 @@ $ ng serve
 
 - When you navigate to [localhost:4200/redirect-to-root](http://localhost:4200/redirect-to-root), the CanActivate guard redirects to`/`. Note that the RootComponent does __NOT__ render, even though it should.
 
-- When you navigate to [localhost:4200/redirect-to-root](http://localhost:4200/redirect-to-root), the CanActivate guard redirects to `/elsewhere`. Note that the ElsewhereComponent correctly renders.
+- When you navigate to [localhost:4200/redirect-to-elsewhere](http://localhost:4200/redirect-to-elsewhere), the CanActivate guard redirects to `/elsewhere`. Note that the ElsewhereComponent correctly renders.
