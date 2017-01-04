@@ -1,7 +1,7 @@
 {
   "project": {
     "version": "1.0.0-beta.24",
-    "name": "issue13530"
+    "name": "angular-issue-13530"
   },
   "apps": [
     {
